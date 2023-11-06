@@ -4,18 +4,21 @@
 .box1{
     height: 850px;
 }
-.sbox{
-    width: 1100px;
-    height: 850px;
+.sbox1{
+    width: 1600px;
+    height: 1080px;
     margin: 0 auto;
     position: relative;
 }
-.sb_1{
+.sb1_1{
     width: 600px;
     height: 801px;
     position: absolute;
-    left: 23px;
-    top: 23px;    
+    left: -160px;
+    top: 0px;   
+    height: 1080px;
+    width: 2000px;
+    margin: 0 auto; 
 }
 .sb1_2{
     width: 436opx;
@@ -52,13 +55,13 @@
 .sb2_1{
     width: 930px;
     margin: 0 auto;
-    padding-top: 140px;
+    padding-top: 110px;
     text-align: center;
 }
 .sb2_2{
     width: 930px;
     margin: 0 auto;
-    padding-top: 140px;
+    padding-top: 100px;
     text-align: center;
 }
 .body_txt{
@@ -68,12 +71,6 @@
     font-weight: 400;
     line-height: 31px;
     letter-spacing: -0.8px;
-}
-.box3{
-    height: 1600px;
-    background-position-x: center;
-    background-repeat: no-repeat;
-    background-color: antiquewhite;
 }
 .sbox3{
     width: 1100px;
@@ -96,21 +93,21 @@
 .sb3_3{
     width: 930px;
     margin: 0 auto;
-    padding-top: 140px;
+    padding-top: 170px;
     text-align: center;
 }
 .box4{
     height: 1080px;
     background-position-x: center;
     background-repeat: no-repeat;
-    background-color: #050507;
+    background-color: #707070;
 }
 .sbox4{
     width: 1080px;
     height: 1080px;
     margin: 0 auto;
 }
-.sbox4 video{padding-top: 141px;}
+.sbox4 video{padding-top: 250px;}
 .sb4_1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 14px;
@@ -119,23 +116,21 @@
     line-height: 24px;
     letter-spacing: -0.6px;
     text-align: center;
-    padding-top: 24px;
+    padding-top: 110px;
 }
 .box5{
-    height: 878px;
+    height: 1080px;
 }
 .sbox5{
-    height: 878px;
-    width: 229px;
+    height: 1080px;
+    width: 2000px;
     margin: 0 auto;
 }
 .sb5_1{
     height: 1600px;
-    background-color: black;
+    width: 1600px; 
     background-position-x: center;
-    width: 1100px;
-    margin: 0 auto;
-    padding-top: 47px;
+    background-repeat: no-repeat;
 }
 .sb5_2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -145,5 +140,5 @@
     line-height: 24px;
     letter-spacing: -0.6px;
     text-align: center;
-    padding-top: 70px;
+    padding-top: 24px;
 }
